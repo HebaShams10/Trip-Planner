@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![LangChain](https://img.shields.io/badge/LangChain-AI-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # 🌍 AI Trip Planner
 
 An AI-powered travel planning assistant built with **Python**, **Streamlit**, **LangChain**, and **Groq LLM**. The application creates personalized travel itineraries after collecting the essential trip details from the user.
