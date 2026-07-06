@@ -131,7 +131,9 @@ streamlit run app.py
 ![Chat](assets/chat.png)
 
 ### Generated Itinerary
-![Itinerary](assets/itinerary.png)
+![Itinerary](assets/itinerary-1.png)
+![Itinerary](assets/itinerary-2.png)
+![Itinerary](assets/itinerary-3.png)
 
 ### Sidebar
 ![Sidebar](assets/sidebar.png)
