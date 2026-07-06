@@ -9,6 +9,12 @@ An AI-powered travel planning assistant built with **Python**, **Streamlit**, **
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **https://trip-planner10.streamlit.app**
+
+---
+
 ## ✨ Features
 
 - 🤖 AI-powered travel assistant
