@@ -127,6 +127,9 @@ streamlit run app.py
 ### Home Screen
 ![Home](assets/home.png)
 
+### Sidebar
+![Sidebar](assets/sidebar.png)
+
 ### Chat Interface
 ![Chat](assets/chat.png)
 
@@ -134,9 +137,6 @@ streamlit run app.py
 ![Itinerary](assets/itinerary-1.png)
 ![Itinerary](assets/itinerary-2.png)
 ![Itinerary](assets/itinerary-3.png)
-
-### Sidebar
-![Sidebar](assets/sidebar.png)
 
 ---
 
