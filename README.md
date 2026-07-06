@@ -160,4 +160,4 @@ streamlit run app.py
 
 **Heba Shams**
 
-GitHub: https://github.com/HebaShams10
+GitHub: [HebaShams10](https://github.com/HebaShams10)
