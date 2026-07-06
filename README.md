@@ -124,7 +124,17 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-Screenshots will be added soon.
+### Home Screen
+![Home](assets/home.png)
+
+### Chat Interface
+![Chat](assets/chat.png)
+
+### Generated Itinerary
+![Itinerary](assets/itinerary.png)
+
+### Sidebar
+![Sidebar](assets/sidebar.png)
 
 ---
 
